@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Amit Rahav
  * Author URI: http://danielpataki.com
- * License: GPL3
+ * License: MIT
  */
 
 function add_empty_field_handling( $user ) {
