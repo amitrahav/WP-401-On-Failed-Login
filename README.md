@@ -6,4 +6,4 @@ Export zip into wp-content/plugins and enable it.
 Server side for this plugin is a fail2bun patch like: [fail2ban-wordpress-login](https://github.com/alonisser/fail2ban-wordpress-login).
 
 ## REST-API
-removing `wp/v2/users` defualt endpoint, and hooking 401 into 
+removing `wp/v2/users` defualt endpoint, and hooking 401 into rest api auth error. 
