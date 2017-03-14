@@ -1,0 +1,13 @@
+{
+    "name": "amit/wp-401-on-failed-login",
+    "description": "This plugin Sends Header Status 401 When Login Fails. Edit",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amit Rahav",
+            "email": "amit.r.89@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
