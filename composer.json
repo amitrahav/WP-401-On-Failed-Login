@@ -2,12 +2,17 @@
     "name": "wp-401-on-failed-login",
     "description": "This plugin Sends Header Status 401 When Login Fails. Edit",
     "type": "wordpress-plugin",
+    "homepage": "https://github.com/amitrahav/WP-401-On-Failed-Login",
+    "keywords": ["security","401", "authorization"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Amit Rahav",
             "email": "amit.r.89@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "minimum-stability": "dev",
-    "require": {}
 }
